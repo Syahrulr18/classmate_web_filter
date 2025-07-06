@@ -1,0 +1,17 @@
+[
+  { "id": 1, "name": "Andi", "class": "IA", "major": "Teknik Komputer dan Jaringan" },
+  { "id": 2, "name": "Budi", "class": "IB", "major": "Teknik Multimedia dan Jaringan" },
+  { "id": 3, "name": "Citra", "class": "IC", "major": "Teknik Komputer dan Jaringan" },
+  { "id": 4, "name": "Dina", "class": "IA", "major": "Teknik Multimedia dan Jaringan" },
+  { "id": 5, "name": "Eko", "class": "ID", "major": "Teknik Komputer dan Jaringan" },
+  { "id": 6, "name": "Fani", "class": "IB", "major": "Teknik Multimedia dan Jaringan" },
+  { "id": 7, "name": "Gita", "class": "IC", "major": "Teknik Komputer dan Jaringan" },
+  { "id": 8, "name": "Hadi", "class": "ID", "major": "Teknik Multimedia dan Jaringan" },
+  { "id": 9, "name": "Ika", "class": "IA", "major": "Teknik Komputer dan Jaringan" },
+  { "id": 10, "name": "Joko", "class": "IB", "major": "Teknik Multimedia dan Jaringan" },
+  { "id": 10, "name": "Zilong", "class": "IB", "major": "Teknik Multimedia dan Jaringan" },
+  { "id": 10, "name": "Alucard", "class": "IB", "major": "Teknik Multimedia dan Jaringan" },
+  { "id": 10, "name": "dijah", "class": "IB", "major": "Teknik Multimedia dan Jaringan" },
+  { "id": 10, "name": "aerim", "class": "IB", "major": "Teknik Multimedia dan Jaringan" },
+  { "id": 10, "name": "Nabil", "class": "IB", "major": "Teknik Multimedia dan Jaringan" }
+]
