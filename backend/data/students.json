@@ -9,9 +9,9 @@
   { "id": 8, "name": "Hadi", "class": "ID", "major": "Teknik Multimedia dan Jaringan" },
   { "id": 9, "name": "Ika", "class": "IA", "major": "Teknik Komputer dan Jaringan" },
   { "id": 10, "name": "Joko", "class": "IB", "major": "Teknik Multimedia dan Jaringan" },
-  { "id": 10, "name": "Zilong", "class": "IB", "major": "Teknik Multimedia dan Jaringan" },
-  { "id": 10, "name": "Alucard", "class": "IB", "major": "Teknik Multimedia dan Jaringan" },
-  { "id": 10, "name": "dijah", "class": "IB", "major": "Teknik Multimedia dan Jaringan" },
-  { "id": 10, "name": "aerim", "class": "IB", "major": "Teknik Multimedia dan Jaringan" },
-  { "id": 10, "name": "Nabil", "class": "IB", "major": "Teknik Multimedia dan Jaringan" }
+  { "id": 11, "name": "Zilong", "class": "IB", "major": "Teknik Multimedia dan Jaringan" },
+  { "id": 12, "name": "Alucard", "class": "IB", "major": "Teknik Multimedia dan Jaringan" },
+  { "id": 13, "name": "dijah", "class": "IB", "major": "Teknik Multimedia dan Jaringan" },
+  { "id": 14, "name": "aerim", "class": "IB", "major": "Teknik Multimedia dan Jaringan" },
+  { "id": 15, "name": "Nabil", "class": "IB", "major": "Teknik Multimedia dan Jaringan" }
 ]
